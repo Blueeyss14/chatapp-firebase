@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359795036226",
+    "project_id": "testerror-1e178",
+    "storage_bucket": "testerror-1e178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359795036226:android:bba2eb17c362b313c19ddb",
+        "android_client_info": {
+          "package_name": "com.example.chatapp6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxVKHLhMYvaRjksazQXH9bvLvhq0pghmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
