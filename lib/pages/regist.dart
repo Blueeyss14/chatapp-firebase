@@ -72,7 +72,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text("Already have an account? "),
+                    Text("Already have an account?? "),
                     GestureDetector(
                         onTap: widget.onTap,
                         child: Text("Login Now", style: TextStyle(fontWeight: FontWeight.bold),)),

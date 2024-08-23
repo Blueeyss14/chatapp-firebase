@@ -62,7 +62,7 @@ class _LoginPageState extends State<LoginPage> {
                 Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
-                    Text("Not a member? "),
+                    Text("Not a member?? "),
                     GestureDetector(
                         onTap: widget.onTap,
                         child: Text("Register Now", style: TextStyle(fontWeight: FontWeight.bold),)),
